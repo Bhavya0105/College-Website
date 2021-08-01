@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#left-side{
+    float: left;
+    height: 100%;
+    width: 50%;    
+    text-align: left;
+}
+p{
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+	
+}
+
+#right-side{
+    float: left;
+    height: 120%;
+    width: 50%;
+}
+#right-side img{
+    height: 100%;
+    width: 100%;
+	border:5px solid gray;
+}

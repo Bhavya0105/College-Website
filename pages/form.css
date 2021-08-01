@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(form1.jpg);
+    background-attachment: fixed;
+    background-size: cover; 
+	
+}
+form label{
+    margin-left: 50px;
+}
+form input{
+    margin-top: 10px;
+    margin-left: 19px;
+    border-radius: 10px;
+    height: 30px;"
+}
